@@ -33,7 +33,7 @@
       "camelcase": "off",
       "@typescript-eslint/camelcase": ["off"],
       "@typescript-eslint/no-empty-function": ["warn"],
-      "react-hooks/exhaustive-deps": "warn",
+      "react-hooks/exhaustive-deps": "off",
       "react/jsx-props-no-spreading": "off",
       "react/prop-types": "off",
       "react/jsx-filename-extension": [1, {"extensions": [".tsx"]}],
